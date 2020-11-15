@@ -1,3 +1,3 @@
 # Encyclopedie
 
-Résultats et code pour l'encyclopédie sur les Fractals coordonnée par Cécile Tannier. 
+Résultats et codes pour l'encyclopédie sur les fractals coordonnée par Cécile Tannier. 
